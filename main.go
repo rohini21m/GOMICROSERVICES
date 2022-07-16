@@ -8,7 +8,7 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/nicholasjackson/building-microservices-youtube/product-api/handlers"
+	"github.com/rohini21m/GOMICROSERVES/handlers"
 
 	"github.com/nicholasjackson/env"
 )
